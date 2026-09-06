@@ -1,0 +1,4 @@
+[2026-09-06 13:07:53] OTA update started (Valid V2 Update). Active=A, Target=B
+[2026-09-06 13:07:55] Verification PASSED. Active slot switched to B.
+[2026-09-06 13:08:13] OTA update started (Corrupted Update). Active=B, Target=A
+[2026-09-06 13:08:15] Verification FAILED. Rollback performed. Active slot remains B.
