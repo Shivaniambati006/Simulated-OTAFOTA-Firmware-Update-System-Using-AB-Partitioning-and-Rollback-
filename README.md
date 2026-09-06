@@ -2,15 +2,13 @@
 
 # Simulated OTA/FOTA Firmware Update System
 
-<img src="simulated_ota_poster.png" alt="Simulated OTA/FOTA Firmware Update System Poster" width="100%">
-
-
 ![Language](https://img.shields.io/badge/language-C%20%7C%20Python-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
 ![Status](https://img.shields.io/badge/status-active%20development-brightgreen)
 ![License](https://img.shields.io/badge/license-Educational-orange)
 
-<br><br>
+<img src="simulated_ota_poster.png" alt="Simulated OTA/FOTA Firmware Update System Poster" width="100%">
+
 </div>
 
 ---
