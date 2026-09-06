@@ -9,7 +9,7 @@
 
 <br><br>
 
-<img src="../image/simulated_ota_poster.png" alt="Simulated OTA/FOTA Firmware Update System Poster" width="100%">
+<img src="D:\GITHUB\Advanced Microprocessor\Simulated OTAFOTA Firmware Update System Using AB Partitioning and Rollback\image\simulated_ota_poster.png" alt="Simulated OTA/FOTA Firmware Update System Poster" width="100%">
 
 </div>
 
