@@ -9,7 +9,7 @@
 
 <br><br>
 
-<img src="./images/simulated_ota_poster.png" alt="Simulated OTA/FOTA Firmware Update System Poster" width="100%">
+<img src="../image/simulated_ota_poster.png" alt="Simulated OTA/FOTA Firmware Update System Poster" width="100%">
 
 </div>
 
