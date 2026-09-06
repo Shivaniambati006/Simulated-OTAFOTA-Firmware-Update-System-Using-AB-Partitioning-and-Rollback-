@@ -3,7 +3,7 @@
 # Simulated OTA/FOTA Firmware Update System
 
 <p align="center">
-    <img src="./image/img.png" alt=" Demonstration" width="80%">
+  <img src="./images/simulated_ota_poster.png" alt="Simulated OTA/FOTA Firmware Update System Poster" width="100%">
 </p>
 
 
