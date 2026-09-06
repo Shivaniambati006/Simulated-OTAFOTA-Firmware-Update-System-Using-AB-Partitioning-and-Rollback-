@@ -2,7 +2,10 @@
 
 # Simulated OTA/FOTA Firmware Update System
 
-**A laptop-based simulation of Over-The-Air firmware updates using A/B partitioning, integrity verification, and automatic rollback.**
+<p align="center">
+    <img src="./image/img.png" alt=" Demonstration" width="80%">
+</p>
+
 
 ![Language](https://img.shields.io/badge/language-C%20%7C%20Python-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
