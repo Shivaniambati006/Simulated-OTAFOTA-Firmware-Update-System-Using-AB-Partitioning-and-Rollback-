@@ -211,8 +211,3 @@ Planned enhancements to extend beyond the baseline SRD scope, aligned with real-
 | GUI | Tkinter |
 | Version control | Git / GitHub |
 
----
-
-## License
-
-This project is intended for educational and demonstration purposes.
