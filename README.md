@@ -1,19 +1,16 @@
 <div align="center">
-
 # Simulated OTA/FOTA Firmware Update System
-
+ 
 ![Language](https://img.shields.io/badge/language-C%20%7C%20Python-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
 ![Status](https://img.shields.io/badge/status-active%20development-brightgreen)
 ![License](https://img.shields.io/badge/license-Educational-orange)
-
+ 
 <br><br>
-
+ 
 <img src="./images/simulated_ota_poster.png" alt="Simulated OTA/FOTA Firmware Update System Poster" width="100%">
-
 </div>
 
----
 ## Overview
 
 Embedded devices deployed in the field require firmware updates to fix bugs and add features. However, a failed or corrupted update can leave a device unable to boot. This project simulates a **safe firmware update pipeline**, modeled after strategies used in production systems such as Android's A/B seamless updates and automotive ECU update mechanisms.
